@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "demo-aa123",
+    "storage_bucket": "demo-aa123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:123a4567a8a9aa012a3456",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAaaAaAAAaAAAaaaA-aa_a1AaaaAAaa2aA3AAAa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demotwo.isn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:123a4567a8a9aa012a3456",
+        "android_client_info": {
+          "package_name": "com.example.demotwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAaaAaAAAaAAAaaaA-aa_a1AaaaAAaa2aA3AAAa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demotwo.whitelabel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:123a4567a8a9aa012a3456",
+        "android_client_info": {
+          "package_name": "com.example.demotwo.whitelabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demotwo.whitelabel",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demotwo.whitelabel",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAaaAaAAAaAAAaaaA-aa_a1AaaaAAaa2aA3AAAa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demotwo.whitelabel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:123a4567a8a9aa012a3456",
+        "android_client_info": {
+          "package_name": "com.example.demotwo.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demotwo.qa",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAaaAaAAAaAAAaaaA-aa_a1AaaaAAaa2aA3AAAa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demotwo.whitelabel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:123a4567a8a9aa012a3456",
+        "android_client_info": {
+          "package_name": "com.example.demotwo.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demotwo.uat",
+            "certificate_hash": "a12345aa67aa8aaa90aa12345a6a78901234567a"
+          }
+        },
+        {
+          "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAaaAaAAAaAAAaaaA-aa_a1AaaaAAaa2aA3AAAa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456789012-aaaaaaaa12a3a4aaaa5aa6aa7aa8aa90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demotwo.whitelabel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
